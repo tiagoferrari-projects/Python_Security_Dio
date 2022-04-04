@@ -1,0 +1,15 @@
+>>> O que é PING?
+
+O que é ICMP?
+Internet Control Message Protocol é um protocolo integrante do Protocolo IP utilizado para fornecer relatórios de erros à fonte original.
+
+O que é Ping?
+O Ping é uma ferramenta que usa o protocolo ICMP para testar a conectividade entre nós. É um comando disponível praticamente em todos os sistemas operacionais que consiste no envio de pacotes para o equipamento de destino e na "escuta" das respostas. Contempla o princípio de Disponibilidade.
+
+>> Ferramenta Ping simples em Python
+> Biblioteca OS
+Este módulo fornece uma maneira simples de usar funcionalidades que são dependentes de sistema operacional.
+
+>> Ferramenta Ping múltiplo em Python
+> Biblioteca time
+Este módulo fornece várias funções relacionadas ao tempo, como por exemplo, tempo de execução.

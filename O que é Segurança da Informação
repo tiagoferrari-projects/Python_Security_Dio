@@ -1,0 +1,39 @@
+Segurança da Informação com Python
+
+>>> Por que Python?
+
+Mais simplista
+Menos linhas de código
+Orientada a objetos
+API's e bibliotecas prontas para redes, web, etc
+Multiplataforma
+
+Amplamente utilizada na área de Segurança da Informação facilitando desde desenvolvimento de scripts de automação até o desenvolvimento de ferramentas e projetos inteiros.
+
+>>> O que é Segurança da Informação?
+
+O que é Dado?
+Pode ser uma representação simbólica, numérica ou textual qualquer, não tem referência.
+
+O que é Informação?
+É o conjunto ou a junção de dados que fazem um contexto ou sentido.
+
+Segurança da Informação
+Área do conhecimento que tem como objetivo assegurar que todos os dados de uma ou mais informações estejam sempre confidenciais, íntegras e disponíveis em qualquer meio de comunicação.
+
+Por que Segurança? (Maslow - Filósofo)
+O ser humano tem necessidade de segurança
+
+Princípios/Pilares da Segurança da Informação
+	----- Pilares Principais -----
+	Integridade: Princípio que visa proteger a informação de alterações indevidas.
+	Confidencialidade: Princípio que visa manter uma informação confidencial.
+	Disponibilidade: Princípio que visa garantir que um curso e/ou informação esteja 		disponível.
+	
+	----- Pilares Complementares -----
+	Identificação: Princípio que visa identificar uma entidade.
+	Autenticação: Princípio que visa verificar a entidade e suas credenciais.
+	Autorização: Princípio que visa autorizar a entidade dentro de um sistema.
+	Não Repúdio: Princípio que visa evitar que uma entidade negue suas ações em um sistema.
+	
+	

@@ -1,0 +1,19 @@
+>>> O que é Biblioteca Socket
+>> Biblioteca Socket
+Esta biblioteca fornece acesso de baixo nível à interface de rede.
+O SO fornece a API Socket que relaciona o programa com a rede.
+
+>>> Desenvolvimento de um TCP
+>> TCP
+Transmission Control Protocol é um dos protocolos de comunicação, que dão suporte rede global Internet, veriicando se os dados são enviados na sequência correta e sem erros.
+No modelo OSI está na camada de transporte.
+O programa verificará se dados são enviados de maneira íntegra.
+Contempla o princípio de integridade.
+
+>>> Desenvolvimento de um cliente UDP
+>> UDP
+Também esta na camada de transporte.
+User Datagram Protocol é um protocolo simples da camada de transporte que permite que a aplicação envie um datagrama dentro de um pacote IPv4 ou IPv6 a um destino, porém sem qualquer tipo de garantia que o pacote chegue corretamente.
+Contempla o princípio de disponibilidade.
+
+>>> Desenvolvimento de um server para a conexão que todos acima.
